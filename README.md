@@ -1,4 +1,4 @@
-# new_kothopokothon
+# Kothopokothon(Networking Project)
 # Kothopokothon is an android peer to peer chatting application that enables an user to exchange messages to others using the same application.  
 
 ## * Base Features: - when the system is loaded, an option to provide the IP address/port number of the counterpart system of the other user. Both users must stay connected in one wifi network. - a proper GUI and read-only text box to show exchanged messages, a text entry field to write a new message and a send button. - an option to exchange textual file between users. - an option to save exchanged message. - an option to change the background color of the message window. If one user changes the background of the message window it will also be reflected in the message window of the other user. 
